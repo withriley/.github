@@ -16,5 +16,5 @@ jobs:
       uses: derberg/copy-files-to-other-repositories@v1.0.0
       with:
         github_token: ${{ secrets.CUSTOM_TOKEN }}
-        patterns_to_ignore: '.github/workflows/global.yml'
-        patterns_to_include: '.github/workflows',CODE_OF_CONDUCT.md,SECURITY.md,CODEOWNERS
+        patterns_to_ignore: ".github/workflows/global.yml"
+        patterns_to_include: ".github/workflows",CODE_OF_CONDUCT.md,SECURITY.md,CODEOWNERS
