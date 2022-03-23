@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# Riley Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
