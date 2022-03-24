@@ -11,4 +11,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-- :bug: Use the `Issues` Tab to report any vulnerabilities.
+- :bug: Use the `Issues` Tab to report any vulnerabilities. 
+- Or email [hello@withriley.com](mailto:hello@withriley.com).
