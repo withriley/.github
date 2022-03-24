@@ -8,7 +8,7 @@ for row in $(gh repo list withriley --no-archived -L 100 --json name | jq -r '.[
             echo ${pr} | base64 --decode | jq -r ${1}
         }
         echo "Merging PR: $(_jq '.url')"
-        gh pr merge $(_jq '.url') -m --admin
+        gh pr merge $(_jq '.url') -m --admin -d
     done
     echo "----------------------------------"
 done
