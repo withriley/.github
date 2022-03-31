@@ -10,8 +10,6 @@
 - 👩‍💻 Visit our website - [withriley.com](https://withriley.com)
 - 📧 Get in contact with us at - [hello@withriley.com](mailto:hello@withriley.com)
 
-![Riley Banner](https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/233428730_194151806066120_8222228006391198895_n.png?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=hsakdHlP-a8AX-e_8es&_nc_ht=scontent-syd2-1.xx&oh=00_AT-zZgn6AOHkvrwrIDQZQL1-G8a5SqCAMQf38jRc6SKqRw&oe=623FABEC)
-
 <!--
 Made with 🖤
 🙇‍♂️🎤⬇️
