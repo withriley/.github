@@ -14,3 +14,9 @@
 Made with 🖤
 🙇‍♂️🎤⬇️
 -->
+
+## Getting Started
+
+### Creating Repos
+
+- Visit the `bootstrap` repo and use the template files in there to create new repos depending on your needs
