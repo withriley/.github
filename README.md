@@ -1,4 +1,4 @@
-![https://www.cyberark.com/wp-content/uploads/2021/10/NCS-logo.png](https://govdata.com.au/wp-content/uploads/2023/01/ncs.png)
+![https://govdata.com.au/wp-content/uploads/2023/01/ncs.png](https://www.drupal.org/files/styles/grid-4-2x/public/ncs-australia-logo_5.png?itok=NJlHLGeF)
 
 ### "Our passion is unlocking more client value through technology."
  
