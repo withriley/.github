@@ -1,4 +1,4 @@
-![Riley Solutions](https://www.cyberark.com/wp-content/uploads/2021/10/NCS-logo.png)
+[https://www.cyberark.com/wp-content/uploads/2021/10/NCS-logo.png](https://govdata.com.au/wp-content/uploads/2023/01/ncs.png)
 
 ### "Our passion is unlocking more client value through technology."
  
