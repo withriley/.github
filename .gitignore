@@ -353,3 +353,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 .DS_STORE
+.DS_Store
