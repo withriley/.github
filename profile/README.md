@@ -20,7 +20,6 @@
   <br>
   <img src="https://img.shields.io/badge/Terraform-00215c?&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Markdown-00215c?logo=markdown&logoColor=fff" alt="Markdown">
-  <img src=".https://img.shields.io/badge/Dart-00215c?logo=dart&logoColor=fff" alt="Markdown">
 
   <img src="https://img.shields.io/badge/BigQuery-00215c?&logo=googlebigquery&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Kubernetes-00215c?logo=kubernetes&logoColor=fff" alt="Markdown">
