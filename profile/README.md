@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="../assets/logo2.png" alt="Project Logo">
+  <img src="../assets/logo.png" alt="Project Logo">
   <br>
   "Our passion is unlocking more  client value through technology."
   <br>
